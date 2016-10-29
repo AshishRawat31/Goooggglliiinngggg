@@ -1,5 +1,5 @@
 #! python3
-#FeelingLucky.py - Opens Several Google search results
+#FeelingLucky.py - Opens Several Google search results in different tabs of browser
 
 import requests, bs4, webbrowser, sys
 
